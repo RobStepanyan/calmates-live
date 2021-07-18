@@ -1,0 +1,2 @@
+CSS Loader
+https://loading.io/spinner/ripple/-ripple-circle-scale-round-radar-radio
